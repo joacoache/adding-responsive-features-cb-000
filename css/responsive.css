@@ -1,5 +1,5 @@
 @media only screen and (max-width: 1108px) {
-  
+
   .wrapper {
     width: 90%;
   }
@@ -9,5 +9,9 @@
     top: 82px;
     right: 4%;
     width: auto;
+  }
+
+  #social a {
+    display: inline-block;
   }
 }
